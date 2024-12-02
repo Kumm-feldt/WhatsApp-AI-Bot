@@ -1,0 +1,82 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '50257352104@s.whatsapp.net',
+    fromMe: false,
+    id: '3F24F243BC5FC1206A4D',
+    participant: undefined
+  },
+  messageTimestamp: 1732842321,
+  pushName: 'Kummerfeldt',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola cuanto es 2+2',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola cuanto es 2+2',
+  from: '50257352104'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c4c66645-ec87-4f07-a7d4-d12a9ba74d1a',
+  keyword: 'key_a7220b2c-bdfe-4d15-9b15-ade570cf7526',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2ea8e0019442e0c3c2bbfc80445cf9c6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50257352104@s.whatsapp.net',
+    fromMe: false,
+    id: '3FE4E776E25EFE3058B7',
+    participant: undefined
+  },
+  messageTimestamp: 1732842337,
+  pushName: 'Kummerfeldt',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola como te llamas',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola como te llamas',
+  from: '50257352104'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c4c66645-ec87-4f07-a7d4-d12a9ba74d1a',
+  keyword: 'key_a7220b2c-bdfe-4d15-9b15-ade570cf7526',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2ea8e0019442e0c3c2bbfc80445cf9c6'
+}
