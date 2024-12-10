@@ -15,10 +15,13 @@
         "@bot-whatsapp/database": "latest",
         "@bot-whatsapp/portal": "latest",
         "@bot-whatsapp/provider": "latest",
+        "@google/generative-ai": "^0.21.0",
         "@whiskeysockets/baileys": "6.5.0",
         "cache-manager": "5.2.4",
         "dotenv": "^16.4.5",
+        "express": "^4.21.1",
         "google-auth-library": "^9.15.0",
+        "googleapis": "^144.0.0",
         "mysql2": "^2.3.3",
         "openai": "^4.73.1",
         "wa-sticker-formatter": "4.4.4"
